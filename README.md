@@ -7,7 +7,7 @@ This repository contains the official implementation for the paper **"Incentive-
 We propose a game-theoretic framework for auditing AI models where the regulator accounts for the **strategic behavior** of model providers. We prove that to prevent "gaming" (regulatory arbitrage), the set of non-compliant distributions must form a **Credal Set** (convex and closed). We also introduce practical regulation mechanisms based on the testing by betting framework.
 
 <p align="center">
-<img src="meta_data/credal_strategy.pdf" width="600" alt="Credal Strategy Diagram">
+<img src="meta_data/credal_strategy.png" width="600" alt="Credal Strategy Diagram">
 <br>
 <em>From Left-to-Right, Figure 1 (a): A Naive Regulator (Red) testing against a non-convex set of bad models can be gamed by a mixture strategy. A Credal Regulator (Blue) robustly rejects the mixture. Figure 1 (b) and (c) show how a practical regulation mechanism on Waterbirds dataset for models that do not rely on suprious correlation implements a perfect market outcome by making non-compliant agents self exclude (red) and the compliant agents recieve a license to operate in the market.</em>
 </p>
