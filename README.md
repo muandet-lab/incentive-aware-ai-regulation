@@ -57,7 +57,7 @@ Demonstrates why regulations must be convex. We simulate a "Bad Agent" who mixes
 ## Citation
 If you find this code or our theoretical framework useful, please cite our paper:
 ```bash
-@article{YourName2024Incentive,
+@article{Singh2026Incentive,
   title={Incentive-Aware AI Regulations: Credal Characterisation},
   author={Singh, Anurag and Rodemann, Julian and Verma, Rajeev and Chau, Siu Lun and Muandet, Krikamol},
   journal={arXiv preprint},
